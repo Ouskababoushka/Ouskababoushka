@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on great projects! (if it's related to audio or music industry it's even better!)
 - 📫 How to reach me >>>> valentin.korea@gmail.com
-- ⚒️  Work : songsalad.com, rocky-aloha.herokuapp.com
+- ⚒️  Work : valentinchauveau.online, songsalad.com, rocky-aloha.herokuapp.com, tortugadivingclub.com
 
 <!---
 Ouskababoushka/Ouskababoushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
