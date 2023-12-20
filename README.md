@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ouskababoushka
+- 👋 Hi, I’m Valentin
 - 👀 I’m interested in Music, Audio Engineering and Coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on great projects! (if it's related to audio or music industry it's even better!)
