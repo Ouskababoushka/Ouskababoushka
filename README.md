@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Valentin
 - 👀 I’m interested in Music, Audio Engineering and Coding
-- 🌱 I’m currently learning React
+- 🌱 I'm currently exploring Flutter
 - 💞️ I’m looking to collaborate on great projects! (if it's related to audio or music industry it's even better!)
 - 📫 How to reach me >>>> valentin.korea@gmail.com
-- ⚒️  Work : www.valentinchauveau.com, www.douzepointcinq.com, www.samtranslation.com
+- ⚒  I’m currently working as a freelance developer specialized in Ruby on Rails
 
 <!---
 Ouskababoushka/Ouskababoushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
