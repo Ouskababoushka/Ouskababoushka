@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music, Audio Engineering and Coding
 - 🌱 I'm currently exploring Flutter
 - 💞️ I’m looking to collaborate on great projects! (if it's related to audio or music industry it's even better!)
-- 📫 How to reach me >>>> valentin.korea@gmail.com
+- 📫 How to reach me >>>> valentinchauveau.web@gmail.com
 - ⚒  I’m currently working as a freelance developer specialized in Ruby on Rails
 
 <!---
