@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valentin
-- 👀 I’m interested in Music, Audio Engineering and Coding
+- 👀 I’m interested in Music, Audio Engineering, Scuba Diving, Traveling and Coding
 - 🌱 I'm currently exploring Flutter
 - 💞️ I’m looking to collaborate on great projects! (if it's related to audio or music it's even better!)
 - 📫 How to reach me >>>> valentinchauveau.web@gmail.com
